@@ -1,0 +1,8 @@
+C:\Users\Oliver Kicks\Documents\Eleven Fifty Academy\Projects\Gold Badge Challenges\Gold Badge Challenges\3_Badge\bin\Debug\3_Badge.exe.config
+C:\Users\Oliver Kicks\Documents\Eleven Fifty Academy\Projects\Gold Badge Challenges\Gold Badge Challenges\3_Badge\bin\Debug\3_Badge.exe
+C:\Users\Oliver Kicks\Documents\Eleven Fifty Academy\Projects\Gold Badge Challenges\Gold Badge Challenges\3_Badge\bin\Debug\3_Badge.pdb
+C:\Users\Oliver Kicks\Documents\Eleven Fifty Academy\Projects\Gold Badge Challenges\Gold Badge Challenges\3_Badge\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Oliver Kicks\Documents\Eleven Fifty Academy\Projects\Gold Badge Challenges\Gold Badge Challenges\3_Badge\obj\Debug\3_Badge.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Kicks\Documents\Eleven Fifty Academy\Projects\Gold Badge Challenges\Gold Badge Challenges\3_Badge\obj\Debug\3_Badge.csproj.CopyComplete
+C:\Users\Oliver Kicks\Documents\Eleven Fifty Academy\Projects\Gold Badge Challenges\Gold Badge Challenges\3_Badge\obj\Debug\3_Badge.exe
+C:\Users\Oliver Kicks\Documents\Eleven Fifty Academy\Projects\Gold Badge Challenges\Gold Badge Challenges\3_Badge\obj\Debug\3_Badge.pdb
